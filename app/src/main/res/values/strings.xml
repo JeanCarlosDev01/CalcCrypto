@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">CalCrypto</string>
+    <string name="title">Elige una opción</string>
+    <string name="btn_future_price">Calcular ganancias</string>
+    <string name="btn_buy_crypto">Calcular compra</string>
+    <string name="title_buy_crypto">Calcular compra</string>
+    <string name="title_card_total_crypto">Cantidad que puedes comprar</string>
+    <string name="title_input_money_buy">Ingresa el monto de dinero a invertir</string>
+    <string name="title_input_price_buy">Ingresa el precio de la criptomoneda</string>
+    <string name="btn_calc_buy">Calcular compra</string>
+    <string name="btn_go_layout">Futuro</string>
+    <string name="placeholder">Ej: 10000.0</string>
+    <string name="image_description">Imagen</string>
+    <string name="btn_calc_gain">Calcular ganancia</string>
+    <string name="title_gain_crypto">Calcular Ganancia</string>
+    <string name="title_card_total_gain">Total de ganancias</string>
+    <string name="title_input_coins">Ingrasa la cantidad de criptomonedas</string>
+    <string name="title_input_actual_price">Precio actual de la criptomoneda</string>
+    <string name="title_input_future_price">Precio futuro de la criptomoneda</string>
+    <string name="percent_title">Calcular porcentaje</string>
+    <string name="title_capitalization">Ingresa el capital en circulación</string>
+    <string name="title_objetive_price">Ingresa el precio objetivo deseado</string>
+    <string name="title_percent_display">Porcenje de crecimiento necesario</string>
+    <string name="btn_percent_text">Calcular porcentaje</string>
+    <string name="display_error">Faltan valores</string>
+</resources>
