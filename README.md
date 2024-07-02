@@ -1,6 +1,6 @@
 <h1>Aplicación android: criptomonedas</h1>
 
-Esta es una aplicación basica desarrollada con Android Studio durante la etapa lectiva del programa de formación Analisis y Desarrollo de software. 
+Esta es una aplicación básica desarrollada con Android Studio durante la etapa lectiva del programa de formación en Análisis y Desarrollo de Software. Mientras estudiaba el material sobre tecnología blockchain, tuve la idea de crear esta aplicación como parte de una actividad formativa. La aplicación fue diseñada para aplicar los conceptos aprendidos y practicar el desarrollo de aplicaciones en Android Studio.
 
 <br>
 
@@ -27,7 +27,7 @@ Esta es una aplicación basica desarrollada con Android Studio durante la etapa 
   <img src="screenshots/c_ganancia.jpeg" alt="Interfaz" width="200">
 </p>
 
-- **Calcular Porcentaje:** Permite mostrar al usuario el porcentaje de creciiento necesario para que la criptomoneda (Token) llegue a un determinado precio.
+- **Calcular Porcentaje:** Permite mostrar al usuario el porcentaje de crecimento necesario para que la criptomoneda (Token) llegue a un determinado precio.
 
 <p align="center">
   <img src="screenshots/c_porcentaje.jpeg" alt="Interfaz" width="200">
